@@ -10,9 +10,9 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 # Table of contents     
  ## [Introduction](#Introduction) <br/>
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
-      •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
-      •[120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
-      •[NBA Game](#NBA-Game)
+   •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+   •[120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
+   •[NBA Game](#NBA-Game)
 
 
 ## Portfolio Projects
