@@ -15,7 +15,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 
      • Introduction
      • List of projects
-          
+            ⦾ [Twitter sentiment analysis](#Twitter-sentiment-analysis)
             ⦾ 120 years of Olympic history: athletes and results [^1]
             ⦾ NBA Game
             ⦾ 
@@ -27,7 +27,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 
 ## List of projects
 
-• [Twitter sentiment analysis](#Twitter-sentiment-analysis)
+
 
 
 
