@@ -10,17 +10,20 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 # Table of contents     
  ## [Introduction](#Introduction) <br/>
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
-   • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+   ### Exploratory Data Analysis
    • [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
-   • [NBA Game](#NBA-Game)
-   • [Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market)
-
+   • [NBA Game](#NBA-Game) <br/>
+   ### Data Preprocessing
+     
+   ### Data Mining
+   • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+   • [Prediction of personal loan purchase in banking and financial services](#Prediction of personal loan purchase in banking and financial services)
+   ### Data Visualization
+   • [Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) <br/>
+   
 
 ## Portfolio Projects
- ### Twitter sentiment analysis
-  #### Motivation:  
-  #### View my work book: 
-  #### Tools: 
+
  ### 120 years of Olympic history: athletes and result
   #### Motivation:  
   #### View my work book: 
@@ -29,6 +32,16 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
   #### Motivation:  
   #### View my work book: 
   #### Tools: 
+  
+ ### Twitter sentiment analysis
+  #### Motivation:  
+  #### View my work book: 
+  #### Tools: Prediction of personal loan purchase in banking and financial services
+ ### Twitter sentiment analysis
+  #### Motivation:  
+  #### View my work book: 
+  #### Tools: 
+  
 ### Implication of Covid-19 in the U.S labor market
   #### Motivation:  
   #### View my work book: 
