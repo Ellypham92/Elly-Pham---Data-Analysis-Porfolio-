@@ -25,10 +25,13 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 ## Table of contents     
     ⦾ Introduction
     ⦾ Portfolio Projects
-          ###[Twitter sentiment analysis](#Twitter-sentiment-analysis)
-          ###[120 years of Olympic history: athletes and result](#120-years-of-Olympic-history)
-          ### [NBA Game] (#NBA-Game)
+
+
+###[Twitter sentiment analysis](#Twitter-sentiment-analysis)
+###[120 years of Olympic history: athletes and result](#120-years-of-Olympic-history)
+
 
 Portfolio Projects
 Twitter sentiment analysis
 120 years of Olympic history: athletes and result
+NBA Game
