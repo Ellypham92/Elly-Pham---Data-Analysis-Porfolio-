@@ -7,6 +7,10 @@ Here are the projects that I worked on in the past or on the progress of comleti
 
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
 
+## List of projects[#list-of-projects]
+
+## List of projects
+
 # Table of contents
 
      • Introduction
@@ -19,6 +23,6 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
      • My contact information
      
      
-## List of projects[#list-of-projects]
+## List of projects (#list-of-projects)
 
 ## List of projects
