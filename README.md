@@ -6,27 +6,12 @@ Welcome to my Github! My name is Elly. I am working as a Program Analyst at a lo
 Here are the projects that I worked on in the past or on the progress of comletition. These projects are ones that I collaborated with my colleages, my teammates at school as well as working on independently throughout the courses of my data analytics journey. 
 
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
-
-## List of projects[#list-of-projects]
-
-## List of projects
-
-# Table of contents
-
-     • Introduction
-     • List of projects
-            ⦾ [Twitter sentiment analysis](#Twitter-sentiment-analysis)
-            ⦾ 120 years of Olympic history: athletes and results [^1]
-            ⦾ NBA Game
-            ⦾ 
-     • Kaggle Competition
-     • My contact information
      
 ## Table of contents     
    ### Introduction
    ### Portfolio Projects 
-[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
-[120 years of Olympic history: athletes and result](#120-years-of-Olympic-history)
+####  [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+####  [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history)
 
 
 Portfolio Projects
