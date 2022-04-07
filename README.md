@@ -17,7 +17,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
      
    ### Data Mining
    • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
-   • [Prediction of personal loan purchase in banking and financial services](#Prediction of personal loan purchase in banking and financial services)
+   • [Prediction of personal loan purchase in banking and financial services](#Prediction-of-personal-loan-purchase-in banking-and-financial-services)
    ### Data Visualization
    • [Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) <br/>
    
