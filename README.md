@@ -23,6 +23,6 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
      • My contact information
      
      
-## [List of projects] (#list-of-projects)
+## [List of projects](#list-of-projects)
 
 ## List of projects
