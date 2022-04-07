@@ -1,9 +1,9 @@
 # Elly-Pham---Data-Analysis-Porfolio-
 
 ## Introduction 
-Welcome to my Github! My name is Elly. I am working as a Program Analyst at a local nonprofit in Houston, Texas. I love data because of its unique combination of logic and technology.
+Welcome to my Github! My name is Elly. I am working as a Program Analyst at a local nonprofit in Houston, Texas. The unique combination of logic and technology that is where it helps me in releazing my passion and committed to the field.
 
-Here are the projects that I worked on in the past or on the progress of comletition. These projects are ones that I collaborated with my colleages, my teammates at school as well as working on independently throughout the courses of my data analytics journey. 
+Here are the projects that I have worked on in the past or on the progress of concluding. These projects are ones that I collaborated with my colleages, my teammates at school as well as working on independently throughout the courses of my data analytics journey. 
 
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
      
