@@ -17,5 +17,14 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 
 ## Portfolio Projects
  ### Twitter sentiment analysis
+  #### Motivation:  
+  #### View my work book: 
+  #### Tools: 
  ### 120 years of Olympic history: athletes and result
+  #### Motivation:  
+  #### View my work book: 
+  #### Tools: 
  ### NBA Game
+  #### Motivation:  
+  #### View my work book: 
+  #### Tools: 
