@@ -8,13 +8,14 @@ Here are the projects that I worked on in the past or on the progress of comleti
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
      
 ## Table of contents     
-   ### Introduction
-   ### Portfolio Projects 
-####  [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
-####  [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history)
+• Introduction
+• Portfolio Projects 
+     ○ [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+     ○ [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
+     ○ [NBA Game](#NBA-Game)
 
 
-Portfolio Projects
+
 Twitter sentiment analysis
 120 years of Olympic history: athletes and result
 NBA Game
