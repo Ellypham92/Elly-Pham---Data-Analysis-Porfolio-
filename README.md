@@ -1,9 +1,9 @@
 # Elly-Pham---Data-Analysis-Porfolio-
 
 ## Introduction 
-Welcome to my Github! My name is Elly. I am working as a Program Analyst at a local nonprofit in Houston, Texas. With significant exposure to Data Analytics in my profession, I wanted to lam pursuing a Master of Science in Data Analytics program at University of Houston-Downtown. 
+Welcome to my Github! My name is Elly. I am working as a Program Analyst at a local nonprofit in Houston, Texas. With significant exposure to Data Analytics in my profession, I wanted to explore more in depth about the Data Analytics field. I am pursuing a MS in Data Analytics program at UHD.
 
-Here are the projects that I worked on in the past or on the progress of comleting. These projects are ones that I collaborated with my colleages, my teammate at school as well as working on independently throughout the courses of my data analytics journey. 
+Here are the projects that I worked on in the past or on the progress of comletition. These projects are ones that I collaborated with my colleages, my teammates at school as well as working on independently throughout the courses of my data analytics journey. 
 
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
 
@@ -22,13 +22,13 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
      • Kaggle Competition
      • My contact information
      
-     
-## [List of projects](#list-of-projects)
+## Table of contents     
+    ⦾ Introduction
+    ⦾ Portfolio Projects
+          ###[Twitter sentiment analysis](#Twitter-sentiment-analysis)
+          ###[120 years of Olympic history: athletes and result](#120-years-of-Olympic-history)
+          ### [NBA Game] (#NBA-Game)
 
-## List of projects
-
-
-
-
-
-## Twitter sentiment analysis
+Portfolio Projects
+Twitter sentiment analysis
+120 years of Olympic history: athletes and result
