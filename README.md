@@ -13,6 +13,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    • [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
    • [NBA Game](#NBA-Game)
+   • [Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market)
 
 
 ## Portfolio Projects
@@ -25,6 +26,10 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
   #### View my work book: 
   #### Tools: 
  ### NBA Game
+  #### Motivation:  
+  #### View my work book: 
+  #### Tools: 
+### Implication of Covid-19 in the U.S labor market
   #### Motivation:  
   #### View my work book: 
   #### Tools: 
