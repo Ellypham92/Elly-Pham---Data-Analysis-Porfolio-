@@ -44,18 +44,25 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    **Tools:** R
 
 ### Titanic data preprocessing
-     Motivation: Titanic is a well-known dataset that contains information about the passengers and their chances of survival. <br>
+       **Motivation:** <span> Titanic is a well-known dataset that contains information about the passengers and their chances of survival. <br>
                  The Titanic accident in 1912, resulted in the deaths of many people who were onboard the ship at the time. <br>
                  Many data scientists analyzed the dataset to create a model that can predict each passenger's survival status. <br>
-                 The data is redundant and should be preprocessed in order to improve forecast accuracy.
-     View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/Titanic-Data-Preprocessing.R 
-     Tools: R
+                 The data is redundant and should be preprocessed in order to improve forecast accuracy. <span>  <br>
+   **View my work book:** [Titanic](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/DP-Titanice-Data.R)  <br>
+   **Tools:** R
 
 ### Twitter sentiment analysis
-     Motivation:Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis is to determine the mood of an individual that is expressed through text toward someone or to a topic.
+     Motivation:
      View my work book: https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R
      Tools: R
 
+       **Motivation:** <span> ASentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis is to determine the mood of an individual that is expressed through text toward someone or to a topic. <span>  <br>
+   **View my work book:** [UsedCars](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/EDA-Used-Cars.R)  <br>
+   **Tools:** R
+
+     
+     
+     
 ### Predicting medical expenses
      Motivation: Predicting medical expenses using linear regression
      View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R
