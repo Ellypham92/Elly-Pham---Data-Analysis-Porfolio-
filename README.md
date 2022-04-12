@@ -27,17 +27,25 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 ## Project Overview
 
  ### 120 years of Olympic history
-     Motivation: The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed substantially since                   its inception. I wanted to look at the historical data to analyze the evolution of the game and what the differences were.
+     Motivation: The Olympic id a multi-national sporting event that attracts spectators of all ages. <br>
+                 However, the game has changed substantially since its inception. <br>
+                 I wanted to look at the historical data to analyze the evolution of the game and what the differences were. 
      View my work book: https://github.com/Ellypham92/EDA_Olympic_2016
      Tools: Python 
 
 ### Used cars 
-     Motivation: According to statistics, 40.42 used automobiles were sold in 2018, while only 17.21 new cars were bought by the consumers. Used cars are                  less expensive and have less depreciation. However, unlike new cars, the used car selection is fairly limited. Consumers may make better                  decisions and receive the dream car by learning more about the secondhand car market.
+     Motivation: According to statistics, 40.42 used automobiles were sold in 2018, while only 17.21 new cars were bought <br>
+                 by the consumers. Used cars are less expensive and have less depreciation. However, unlike new cars, <br>
+                 the used car selection is fairly limited. Consumers may make better decisions and receive the dream car by 
+                 learning more about the secondhand car market.
      View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/EDA-Used-Cars.R
      Tools: R
 
 ### Titanic data preprocessing
-     Motivation: Titanic is a well-known dataset that contains information about the passengers and their chances of survival. The Titanic accident in                    1912, resulted in the deaths of many people who were onboard the ship at the time. Many data scientists analyzed the dataset to create a                  model that can predict each passenger's survival status. The data is redundant and should be preprocessed in order to improve forecast                    accuracy.
+     Motivation: Titanic is a well-known dataset that contains information about the passengers and their chances of survival. <br>
+                 The Titanic accident in 1912, resulted in the deaths of many people who were onboard the ship at the time. <br>
+                 Many data scientists analyzed the dataset to create a model that can predict each passenger's survival status. <br>
+                 The data is redundant and should be preprocessed in order to improve forecast accuracy.
      View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/Titanic-Data-Preprocessing.R 
      Tools: R
 
