@@ -20,6 +20,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    ### Data Mining
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    •[Medical expenses prediction](#Predicting-medical-expenses) <br/>
+   •[Wine Quality prediction](#Predicting-wine-quality) <br/>
    •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) ** <br/> 
    ### Data Visualization
    •[Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) ** <br/>
@@ -56,6 +57,11 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 
 ### Predicting medical expenses
      Motivation: Predicting medical expenses using linear regression
+     View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R
+     Tools: R
+     
+ ### Predicting wine quality
+     Motivation: Predicting medical expenses using Regression Tree and Model Tree
      View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R
      Tools: R
      
