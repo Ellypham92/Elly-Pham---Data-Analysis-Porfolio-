@@ -14,7 +14,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
  contributing and updating as it progresses)
    ### Exploratory Data Analysis
    • [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
-   • [Used Cars](#Used-cars) <br/>
+   • [Used Cars](#EDA-used-cars) <br/>
    ### Data Preprocessing
    • [Titanic Data Preprocessing](#Titanic-data-preprocessing)
    ### Data Mining
@@ -38,7 +38,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    **View my work book:** [Olympic](https://github.com/Ellypham92/EDA_Olympic_2016) <br>
    **Tools:** Python
 
-### Used cars 
+### EDA used cars 
    **Motivation:** <span> According to statistics, 40.42 used automobiles were sold in 2018, while only 17.21 new cars were bought <br>
                  by the consumers. Used cars are less expensive and have less depreciation. However, unlike new cars, <br>
                  the used car selection is fairly limited. Consumers may make better decisions and receive the dream car by 
