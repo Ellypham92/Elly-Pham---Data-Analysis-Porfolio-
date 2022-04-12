@@ -30,7 +30,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 ## Project Overview
 
  ### 120 years of Olympic history
-   #### Motivation: The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed substantially since its inception. <br>
+   **Motivation:** <span> The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed substantially since its inception. <span> <br>
                  I wanted to look at the historical data to analyze the evolution of the game and what the differences were. 
    #### View my work book: [Olympic](https://github.com/Ellypham92/EDA_Olympic_2016)
    #### Tools: Python
