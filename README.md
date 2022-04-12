@@ -40,9 +40,9 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
  #### Tools: R
  
  ### Twitter sentiment analysis
-  #### Motivation:  
-  #### View my work book: 
-  #### Tools: 
+  #### Motivation: Titanic is a well-known dataset that contains information about the passengers and their chances of survival. The Titanic accident in 1912, resulted in the deaths of many people who were onboard the ship at the time. Many data scientists analyzed the dataset to create a model that can predict each passenger's survival status. The data is redundant and should be preprocessed in order to improve forecast accuracy.
+  #### View my work book: https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R
+  #### Tools: R
 
  ### Prediction of personal loan purchase 
   #### Motivation:  
