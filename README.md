@@ -32,16 +32,16 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
  ### 120 years of Olympic history
    **Motivation:** <span> The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed                                       substantially since its inception. I wanted to look at the historical data to analyze the evolution of the game 
                           and what the differences were. <span>  <br>
-   **View my work book:** [Olympic](https://github.com/Ellypham92/EDA_Olympic_2016)
+   **View my work book:** [Olympic](https://github.com/Ellypham92/EDA_Olympic_2016) <br>
    **Tools:** Python
 
 ### Used cars 
-   #### Motivation: According to statistics, 40.42 used automobiles were sold in 2018, while only 17.21 new cars were bought <br>
+   **Motivation:** <span> According to statistics, 40.42 used automobiles were sold in 2018, while only 17.21 new cars were bought <br>
                  by the consumers. Used cars are less expensive and have less depreciation. However, unlike new cars, <br>
                  the used car selection is fairly limited. Consumers may make better decisions and receive the dream car by 
-                 learning more about the secondhand car market.
-     •View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/EDA-Used-Cars.R
-     Tools: R
+                 learning more about the secondhand car market. <span>  <br>
+   **View my work book:** [UsedCars](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/EDA-Used-Cars.R)  <br>
+   **Tools:** R
 
 ### Titanic data preprocessing
      Motivation: Titanic is a well-known dataset that contains information about the passengers and their chances of survival. <br>
