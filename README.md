@@ -27,7 +27,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    •[Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) ** <br/>
  
  ## [Contact](#Contact) <br>
- ## [My Certificates](#My-Certificate)
+
  
 ----
 ## Project Overview
