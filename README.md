@@ -19,6 +19,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    • [Titanic Data Preprocessing](#Titanic-data-preprocessing)
    ### Data Mining
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+   •[Medical Expenses](#Predicting-medical-expenses) <br/>
    •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) ** <br/> 
    ### Data Visualization
    •[Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) ** <br/>
@@ -52,7 +53,12 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
      Motivation:Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis is to determine the mood of an individual that is expressed through text toward someone or to a topic.
      View my work book: https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R
      Tools: R
- 
+
+### Predicting medical expenses
+     Motivation: Predicting medical expenses using linear regression
+     View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R
+     Tools: R
+     
  ### Prediction of personal loan purchase 
   #### Motivation: According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. For instance, you may use a personal loan to consolidate debt, pay for home renovations, or plan a dream wedding. One of the attractions of personal loans is you can use them for practically anything. It can be offered by banks, credit unions, or online lenders. The money you borrow must be repaid over time, typically with interest. Some lenders may also charge fees. The reason I chose this topic is because of my interest in the financial sector as it is an exciting global industry with tremendous opportunities. Additionally, my interest in creating predictive models.
   #### Presentation: 
