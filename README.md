@@ -85,11 +85,11 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 ### Implication of Covid-19 in the U.S labor market
    **Motivation:** <span> After more than a year and a half, everyone is still in shock of how much impacts that Covid has brought on to all of us. After getting hit and suffered by different COVID waves, we are finally seeing the light at the end of the tunnel as we are navigating through this crisis. One of the biggest issues, however, has a long road ahead to pass is the labor market. I wanted to use the analysis to provide a big picture and offer truthful insights as well as the challenges of post pandemic for U.S. labor market and the health insurance. The analysis can be used as a guiding metric for decision making. <span>  <br>
    **Presentation:** https://www.youtube.com/watch?v=fF28YtMubZ4 
-   **View my work book:** <i> the visualization contains 5 dashboards, feel free to reach out to me if you wanted to check out the dashboards <i> <br>
+   **View my work book:**  the visualization contains 5 dashboards, feel free to reach out to me if you wanted to check out the dashboards  <br>
    **Tools:** <span> Tableau, R, Excel, SQL, AWS cloud platform. <span>
        <br>  
        <br>
 <br>
  ## Contact 
-   - [Email](ellyppham@gmail.com)
+   :mailbox: [Email](ellyppham@gmail.com)
    - [Linkedin](https://www.linkedin.com/in/elly-pham-15018193/)
