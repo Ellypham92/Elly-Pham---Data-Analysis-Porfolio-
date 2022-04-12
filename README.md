@@ -92,6 +92,6 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 <br>
  ## Contact 
    :mailbox: [Email](ellyppham@gmail.com)
-     <img src="https://user-images.githubusercontent.com/64395120/163016378-900424c7-e793-4694-8bfc-66677b1caf03.png" width="5" height="7">
+     <img src="https://user-images.githubusercontent.com/64395120/163016378-900424c7-e793-4694-8bfc-66677b1caf03.png" width="15" height="10">
  [Linkedin](https://www.linkedin.com/in/elly-pham-15018193/)
     [Linkedin](https://www.linkedin.com/in/elly-pham-15018193/)
