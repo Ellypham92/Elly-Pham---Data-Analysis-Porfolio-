@@ -12,7 +12,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
    ### Exploratory Data Analysis
    • [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
-   • [NBA Game](#NBA-Game) <br/>
+   • [Used Cars](#Used-cars) <br/>
    ### Data Preprocessing
      
    ### Data Mining
@@ -28,10 +28,11 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
   #### Motivation: The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed substantially since its inception. I wanted to look at the historical data to analyze the evolution of the game and what the differences were.
   #### View my work book: https://github.com/Ellypham92/EDA_Olympic_2016
   #### Tools: Python 
- ### NBA Game
-  #### Motivation:  
-  #### View my work book: 
-  #### Tools: 
+
+### Used cars 
+  #### Motivation: According to statistics, 40.42 used automobiles were sold in 2018, while only 17.21 new cars were bought by the consumers. Used cars are less expensive and have less depreciation. However, unlike new cars, the used car selection is fairly limited. Consumers may make better decisions and receive the dream car by learning more about the secondhand car market.
+  #### View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/EDA-Used-Cars.R
+  #### Tools: R
   
  ### Twitter sentiment analysis
   #### Motivation:  
