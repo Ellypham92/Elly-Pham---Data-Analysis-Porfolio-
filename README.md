@@ -20,7 +20,8 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    ### Data Mining
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    •[Medical expenses prediction](#Predicting-medical-expenses) <br/>
-   •[Wine Quality prediction](#Predicting-wine-quality) <br/>
+   •[Wine quality prediction](#Predicting-wine-quality) <br/>
+   •[SMS spam analysis](#SMS-spam-analysis) <br/>
    •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) ** <br/> 
    ### Data Visualization
    •[Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) ** <br/>
@@ -63,6 +64,11 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
  ### Predicting wine quality
      Motivation: Predicting medical expenses using Regression Tree and Model Tree
      View my work book: https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R
+     Tools: R
+
+ ### #SMS spam analysis
+     Motivation: Predicting whether the text is ham or spam SMS spam analysis using Naive Bayes
+     View my work book: 
      Tools: R
      
  ### Prediction of personal loan purchase 
