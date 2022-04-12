@@ -27,8 +27,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 ## Project Overview
 
  ### 120 years of Olympic history
-   #### Motivation: The Olympic id a multi-national sporting event that attracts spectators of all ages. <br>
-                 However, the game has changed substantially since its inception. <br>
+   #### Motivation: The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed substantially since its inception. <br>
                  I wanted to look at the historical data to analyze the evolution of the game and what the differences were. 
    #### View my work book: [Olympic](https://github.com/Ellypham92/EDA_Olympic_2016)
    #### Tools: Python
@@ -55,11 +54,14 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
      Tools: R
  
  ### Prediction of personal loan purchase 
-  #### Motivation:  
+  #### Motivation: According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. For instance, you may use a personal loan to consolidate debt, pay for home renovations, or plan a dream wedding. One of the attractions of personal loans is you can use them for practically anything. It can be offered by banks, credit unions, or online lenders. The money you borrow must be repaid over time, typically with interest. Some lenders may also charge fees. The reason I chose this topic is because of my interest in the financial sector as it is an exciting global industry with tremendous opportunities. Additionally, my interest in creating predictive models.
+  #### Presentation: 
   #### View my work book: 
-  #### Tools: 
+  #### Tools: R
   
 ### Implication of Covid-19 in the U.S labor market
-  #### Motivation:  
-  #### View my work book: 
-  #### Tools: 
+  #### Motivation: After more than a year and a half, everyone is still in shock of how much impacts that Covid has brought on to all of us. After getting hit and suffered by different COVID waves, we are finally seeing the light at the end of the tunnel as we are navigating through this crisis. 
+One of the biggest issues, however, has a long road ahead to pass is the labor market.
+  #### Presentation: https://www.youtube.com/watch?v=fF28YtMubZ4 
+  #### View my work book: the visualization contains 5 dashboards, feel free to reach out to me if you wanted to check out the dashboards
+  #### Tools: Tableau, R, Excel, SQL
