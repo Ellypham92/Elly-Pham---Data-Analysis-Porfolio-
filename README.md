@@ -3,7 +3,7 @@
 ## Introduction 
 Welcome to my Github! My name is Elly. I am working as a Program Analyst at a local nonprofit in Houston, Texas. The unique combination of logic and technology in Data Analytics is where I realized my long commitment to the field, and I am fascinated by the process of finding meaningful insights from data. 
 
-Here are some of the projects I've worked on, some of which are long-term projects, so I'm continuously adding more analysis to my workbook as data collection continues. Throughout my data analytics journey, my portfolio comprises works that I have collaborated on with my coworkers, schoolmates, and complete it idenpedently.
+Here are some of the projects I've worked on, some of which are long-term projects, so I'm continuously adding more analysis to my workbook as I continute collecting more data. Throughout my data analytics journey, my portfolio comprises the works that I have collaborated on with my coworkers, schoolmates, and complete it idenpedently.
 
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
      
