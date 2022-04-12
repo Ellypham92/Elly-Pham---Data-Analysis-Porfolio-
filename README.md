@@ -21,7 +21,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    ### Data Visualization
    •[Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) <br/>
    
-
+----
 ## Project Overview
 
  ### 120 years of Olympic history
