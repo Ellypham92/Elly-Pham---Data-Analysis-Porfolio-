@@ -44,7 +44,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    **Tools:** R
 
 ### Titanic data preprocessing
-       **Motivation:** <span> Titanic is a well-known dataset that contains information about the passengers and their chances of survival. <br>
+  **Motivation:** <span> Titanic is a well-known dataset that contains information about the passengers and their chances of survival. <br>
                  The Titanic accident in 1912, resulted in the deaths of many people who were onboard the ship at the time. <br>
                  Many data scientists analyzed the dataset to create a model that can predict each passenger's survival status. <br>
                  The data is redundant and should be preprocessed in order to improve forecast accuracy. <span>  <br>
@@ -52,7 +52,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    **Tools:** R
 
 ### Twitter sentiment analysis
-   **Motivation:** <span> A Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis is to determine the mood of an individual that is expressed through text toward someone or to a topic. <span>  <br>
+   **Motivation:** <span> A Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis                             is to determine the mood of an individual that is expressed through text toward someone or to a topic. <span>  <br>
    **View my work book:** [TwitterSentimentAnalysis]https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R)  <br>
    **Tools:** R
 
