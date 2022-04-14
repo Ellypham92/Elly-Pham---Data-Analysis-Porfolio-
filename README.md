@@ -12,26 +12,60 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
  (Note: The projects that have \**, meaning these are long term project. Data collection and Data analytics are still on-going. I will continue
  contributing and updating as it progresses)
-   ### Exploratory Data Analysis
-   • [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
-   • [Used Cars](#EDA-used-cars) <br/>
-   ### Data Preprocessing
-   • [Titanic Data Preprocessing](#Titanic-data-preprocessing)
    ### Data Mining
+   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) <br> ** 
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    •[Medical expenses prediction](#Predicting-medical-expenses) <br/>
    •[Wine quality prediction](#Predicting-wine-quality) <br/>
-   •[SMS spam analysis](#SMS-spam-analysis) <br/>
-   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) ** <br/> 
+   •[SMS spam analysis](#SMS-spam-analysis) <br>
+   
    ### Data Visualization
    •[Implication of Covid-19 in the U.S labor market](#Implication-of-Covid-19-in-the-U.S-labor-market) ** <br/>
- 
+   
+   ### Exploratory Data Analysis
+   • [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
+   • [Used Cars](#EDA-used-cars) <br/>
+   
+   ### Data Preprocessing
+   • [Titanic Data Preprocessing](#Titanic-data-preprocessing)
+
+
  ## [Contact](#Contact) <br>
 
  
 ----
 ## Project Overview
 
+### Prediction of personal loan purchase 
+   **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. For instance, you may use a personal loan to consolidate debt, pay for home renovations, or plan a dream wedding. One of the attractions of personal loans is you can use them for practically anything. It can be offered by banks, credit unions, or online lenders. The money you borrow must be repaid over time, typically with interest. Some lenders may also charge fees. The reason I chose this topic is because of my interest in the financial sector as it is an exciting global industry with tremendous opportunities. Additionally, my interest in creating predictive models. <span>  <br>
+   **View my work book:** expected the full workbook on Friday, April 29th <br>
+   **Tools:** R
+     
+ ### Twitter sentiment analysis
+   **Motivation:** <span> A Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis                             is to determine the mood of an individual that is expressed through text toward someone or to a topic. <span>  <br>
+   **View my work book:** [TwitterSentimentAnalysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R)  <br>
+   **Tools:** R
+
+### Predicting medical expenses
+   **Motivation:** <span> Predicting medical expenses using linear regression. <span>  <br>
+   **View my work book:** [TwitterSentimentAnalysis](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R)  <br>
+   **Tools:** R
+     
+### Predicting wine quality
+   **Motivation:** <span> Predicting medical expenses using Regression Tree and Model Tree. <span>  <br>
+   **View my work book:** [MedicalExpenses](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R)  <br>
+   **Tools:** R
+     
+### Implication of Covid-19 to the U.S labor market
+   **Motivation:** <span> After more than a year and a half, everyone is still in shock of how much impacts that Covid has brought on to all of us. After getting hit and suffered by different COVID waves, we are finally seeing the light at the end of the tunnel as we are navigating through this crisis. One of the biggest issues, however, has a long road ahead to pass is the labor market. I wanted to use the analysis to provide a big picture and offer truthful insights as well as the challenges of post pandemic for U.S. labor market and the health insurance. The analysis can be used as a guiding metric for decision making. <span>  <br>
+   **Presentation:** https://www.youtube.com/watch?v=fF28YtMubZ4 <br>
+   **View my work book:**  the visualization contains 5 dashboards, feel free to reach out to me if you wanted to check out the dashboards  <br>
+   **Tools:** <span> Tableau, R, Excel, SQL, AWS cloud platform. <span>    
+
+ ### SMS spam analysis
+   **Motivation:** <span> Predicting whether the text is ham or spam SMS spam analysis using Naive Bayes. <span>  <br>
+   **View my work book:** [SmsSpam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R)  <br>
+   **Tools:** R
  ### 120 years of Olympic history
    **Motivation:** <span> The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed                                       substantially since its inception. I wanted to look at the historical data to analyze the evolution of the game 
                           and what the differences were. <span>  <br>
@@ -54,39 +88,11 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    **View my work book:** [Titanic](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/DP-Titanice-Data.R)  <br>
    **Tools:** R
 
-### Twitter sentiment analysis
-   **Motivation:** <span> A Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis                             is to determine the mood of an individual that is expressed through text toward someone or to a topic. <span>  <br>
-   **View my work book:** [TwitterSentimentAnalysis](https://github.com/Ellypham92/Twitter-Sentiment-Analysis-using-R)  <br>
-   **Tools:** R
 
-### Predicting medical expenses
-   **Motivation:** <span> Predicting medical expenses using linear regression. <span>  <br>
-   **View my work book:** [TwitterSentimentAnalysis](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R)  <br>
-   **Tools:** R
-     
-### Predicting wine quality
-   **Motivation:** <span> Predicting medical expenses using Regression Tree and Model Tree. <span>  <br>
-   **View my work book:** [MedicalExpenses](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R)  <br>
-   **Tools:** R
-     
-    
-
- ### SMS spam analysis
-   **Motivation:** <span> Predicting whether the text is ham or spam SMS spam analysis using Naive Bayes. <span>  <br>
-   **View my work book:** [SmsSpam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R)  <br>
-   **Tools:** R
          
- ### Prediction of personal loan purchase 
-   **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. For instance, you may use a personal loan to consolidate debt, pay for home renovations, or plan a dream wedding. One of the attractions of personal loans is you can use them for practically anything. It can be offered by banks, credit unions, or online lenders. The money you borrow must be repaid over time, typically with interest. Some lenders may also charge fees. The reason I chose this topic is because of my interest in the financial sector as it is an exciting global industry with tremendous opportunities. Additionally, my interest in creating predictive models. <span>  <br>
-   **View my work book:** expected the full workbook on Friday, April 29th <br>
-   **Tools:** R
+
      
-     
-### Implication of Covid-19 to the U.S labor market
-   **Motivation:** <span> After more than a year and a half, everyone is still in shock of how much impacts that Covid has brought on to all of us. After getting hit and suffered by different COVID waves, we are finally seeing the light at the end of the tunnel as we are navigating through this crisis. One of the biggest issues, however, has a long road ahead to pass is the labor market. I wanted to use the analysis to provide a big picture and offer truthful insights as well as the challenges of post pandemic for U.S. labor market and the health insurance. The analysis can be used as a guiding metric for decision making. <span>  <br>
-   **Presentation:** https://www.youtube.com/watch?v=fF28YtMubZ4 <br>
-   **View my work book:**  the visualization contains 5 dashboards, feel free to reach out to me if you wanted to check out the dashboards  <br>
-   **Tools:** <span> Tableau, R, Excel, SQL, AWS cloud platform. <span>
+
        <br>  
        <br>
 <br>
