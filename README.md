@@ -13,7 +13,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
  (Note: The projects that have \**, meaning these are long term project. Data collection and Data analytics are still on-going. I will continue
  contributing and updating as it progresses)
    ### Data Mining
-   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) <br> ** 
+   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br> 
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    •[Medical expenses prediction](#Predicting-medical-expenses) <br/>
    •[Wine quality prediction](#Predicting-wine-quality) <br/>
@@ -87,16 +87,10 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
                  The data is redundant and should be preprocessed in order to improve forecast accuracy. <span>  <br>
    **View my work book:** [Titanic](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/DP-Titanice-Data.R)  <br>
    **Tools:** R
-
-
-         
-
-     
-
-       <br>  
-       <br>
+<br>  
 <br>
- ## Contact 
+
+## Contact 
    :mailbox: [E-mail](ellyppham@gmail.com) <br>
   <img src="https://user-images.githubusercontent.com/64395120/163016378-900424c7-e793-4694-8bfc-66677b1caf03.png" width="30" height="25">
             [Linkedin](https://www.linkedin.com/in/elly-pham-15018193/)
