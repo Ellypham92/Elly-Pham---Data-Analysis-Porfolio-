@@ -38,7 +38,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 
 ### Prediction of personal loan purchase 
    **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. For instance, you may use a personal loan to consolidate debt, pay for home renovations, or plan a dream wedding. One of the attractions of personal loans is you can use them for practically anything. It can be offered by banks, credit unions, or online lenders. The money you borrow must be repaid over time, typically with interest. Some lenders may also charge fees. The reason I chose this topic is because of my interest in the financial sector as it is an exciting global industry with tremendous opportunities. Additionally, my interest in creating predictive models. <span>  <br>
-   **View my work book:** expected the full workbook on Friday, April 29th <br>
+   **View my work book:** expect the full workbook on Friday, April 29th <br>
    **Tools:** R
      
  ### Twitter sentiment analysis
@@ -48,12 +48,12 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 
 ### Predicting medical expenses
    **Motivation:** <span> Predicting medical expenses using linear regression. <span>  <br>
-   **View my work book:** [TwitterSentimentAnalysis](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R)  <br>
+   **View my work book:** [MedicalExpenses](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R)  <br>
    **Tools:** R
      
 ### Predicting wine quality
    **Motivation:** <span> Predicting medical expenses using Regression Tree and Model Tree. <span>  <br>
-   **View my work book:** [MedicalExpenses](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/LR-Medical-Expenses.R)  <br>
+   **View my work book:** [WineQuality](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/Regression-Wine-Quality.R)  <br>
    **Tools:** R
      
 ### Implication of Covid-19 to the U.S labor market
@@ -66,6 +66,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    **Motivation:** <span> Predicting whether the text is ham or spam SMS spam analysis using Naive Bayes. <span>  <br>
    **View my work book:** [SmsSpam](https://github.com/Ellypham92/Data-Mining-using-R-Python/blob/main/SMS-spam-analysis.R)  <br>
    **Tools:** R
+     
  ### 120 years of Olympic history
    **Motivation:** <span> The Olympic id a multi-national sporting event that attracts spectators of all ages. However, the game has changed                                       substantially since its inception. I wanted to look at the historical data to analyze the evolution of the game 
                           and what the differences were. <span>  <br>
