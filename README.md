@@ -19,7 +19,7 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
    •[SMS spam analysis](#SMS-spam-analysis) <br>
    
    ### Data Visualization
-   • [Implication of Covid-19 to the U.S labor market](#Implication-of-Covid-19-to-the-U.S-labor-market) ** <br/>
+   • [Implication of Covid 19 to the U.S labor market](#Implication-of-Covid-19-to-the-U.S-labor-market) ** <br/>
    
    ### Exploratory Data Analysis
    • [120 years of Olympic history: athletes and result](#120-years-of-Olympic-history) <br/>
