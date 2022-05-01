@@ -37,10 +37,10 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 
 ### Prediction of personal loan purchase 
    **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. One of the attractions of personal loans is you can use them for practically anything. The reason I chose this topic is because of my interest in applying predictive and descriptive models in the financial sector <span>  <br>
-   **View my notebook:** [Predicting Loan Purchase and Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/ProjectCode.R)<br>
+   **View my notebook:** [PredictingLoanPurchaseAndCustomerSegmentationAnalysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/ProjectCode.R)<br>
    **Tools:** R <br>
-   **Project Highlight:** [Youtube-Video](https://www.youtube.com/watch?v=CM71NL_BHHc) <br>
-   **PowerPoint:** [PPT-Presentation](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/Team3-ProjectPresentation.pptx)
+   **Project Highlight:** [YoutubeVideo](https://www.youtube.com/watch?v=CM71NL_BHHc) <br>
+   **PowerPoint:** [PptPresentation](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/Team3-ProjectPresentation.pptx)
      
  ### Twitter sentiment analysis
    **Motivation:** <span> A Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis                             is to determine the mood of an individual that is expressed through text toward someone or to a topic. <span>  <br>
