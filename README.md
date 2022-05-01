@@ -1,17 +1,16 @@
 # Elly-Pham---Data-Analysis-Porfolio-
 
 ## Introduction 
-Welcome to my Github! My name is Elly. I am working as a Program Analyst at a local nonprofit in Houston, Texas. The unique combination of logic and technology in Data Analytics is where I realized my long commitment to the field, and I am fascinated by the process of finding meaningful insights from data. 
+Welcome to my Github! My name is Elly. I am working as a Data Analyst in Houston, Texas. The unique combination of logic and technology in Data Analytics is where I realized my long commitment to the field, and I am fascinated by the process of finding meaningful insights from data. 
 
-Here are some of the projects I've worked on, some of which are long-term projects, so I'm continuously adding more analysis to my workbook as I continute collecting more data. Throughout my data analytics journey, my portfolio comprises the works that I have collaborated on with my coworkers, schoolmates, and complete it independently.
+Here are some of the projects I've worked on, some of which are long-term projects, so I'm continuously adding more in depth analysis to my workbook as I continute collecting more data. Throughout my data analytics journey, my portfolio comprises the works that I have collaborated on with my coworkers, schoolmates, or complete it independently.
 
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
      
 # Table of contents     
  ## [Introduction](#Introduction) <br/>
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
- (Note: The projects that have \**, meaning these are long term project. Data collection and Data analytics are still on-going. I will continue
- contributing and updating as it progresses)
+ (Note: The projects that have \**, meaning these are long-term project. These projects are still in the progress of development in term of data collection and data analytics, nevertheless I have also included the presentation and the code notebook)
    ### Data Mining
    •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br> 
    •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
