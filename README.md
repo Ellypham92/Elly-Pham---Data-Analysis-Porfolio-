@@ -39,8 +39,8 @@ The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange.
 ### Prediction of personal loan purchase 
    **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. For instance, you may use a personal loan to consolidate debt, pay for home renovations, or plan a dream wedding. One of the attractions of personal loans is you can use them for practically anything. It can be offered by banks, credit unions, or online lenders. The money you borrow must be repaid over time, typically with interest. Some lenders may also charge fees. The reason I chose this topic is because of my interest in the financial sector as it is an exciting global industry with tremendous opportunities. Additionally, my interest in creating predictive models. <span>  <br>
    **View my code:** [Predicting Loan Purchase and Customer Segmentation Analysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/ProjectCode.R)<br>
-   **Tools:** R
-   **Project Highlight:** [Youtube-Video]()
+   **Tools:** R <br>
+   **Project Highlight:** [Youtube-Video](https://www.youtube.com/watch?v=CM71NL_BHHc) <br>
    **PowerPoint:** [PPT-Presentation](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/Team3-ProjectPresentation.pptx)
      
  ### Twitter sentiment analysis
