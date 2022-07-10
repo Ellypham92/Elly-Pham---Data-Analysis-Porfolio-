@@ -1,4 +1,4 @@
-# Elly-Pham-Data-Analysis-Porfolio-
+# Elly Pham - Data Analysis Portfolio
 
 ## Introduction 
 Welcome to my Github! My name is Elly. I am working as a Data Analyst in Houston, Texas. I feel fascinated for the unique combination of logic and technology in Data Analytics and having a long-commitment to data journey. I am excited by the process of finding meaningful insights from data. 
