@@ -1,9 +1,9 @@
 # Elly-Pham---Data-Analysis-Porfolio-
 
 ## Introduction 
-Welcome to my Github! My name is Elly. I am working as a Data Analyst in Houston, Texas. The unique combination of logic and technology in Data Analytics is where helps me came to the realization of my long-commitment to data. I am fascinated by the process of finding meaningful insights from data. 
+Welcome to my Github! My name is Elly. I am working as a Data Analyst in Houston, Texas. I feel fascinated for the unique combination of logic and technology in Data Analytics and having a long-commitment to data journey. I am excited by the process of finding meaningful insights from data. 
 
-Here are some of the projects I've worked on, some of which are long-term projects, so I'm continuously adding more in depth analysis to my workbook as I continute collecting more data. Throughout my data analytics journey, my portfolio comprises the works that I have collaborated on with my coworkers, schoolmates, or complete it independently.
+Here are some of the projects I've worked on, some of which are long-term projects, so I'm continuously adding more in depth analysis to my workbook as I continute collecting more data. Throughout my data analytics journey, my portfolio comprises the works where I collaborated with my coworkers, schoolmates, and complete it independently.
 
 The tools that I am utilizing are R, Tableau, MySQL, Excel, Python and Orange. 
      
